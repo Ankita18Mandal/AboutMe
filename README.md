@@ -7,7 +7,7 @@
 <ul>
 
 <li>
-<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">📖</g-emoji> Studying at <strong> IIT Delhi, Undergraduate Research Associate @ UNSW Sydney </strong></p>
+<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">📖</g-emoji> Studying at <strong> IIT Delhi, Undergraduate Research Assistant @ UNSW Sydney </strong></p>
 </li>
 <li>
 <p><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <strong>some of my institute as well as foreign university projects </strong></p>
@@ -19,7 +19,7 @@
 <p><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> All of my projects are available at <a href="https://github.com/gargakshit">https://github.com/Ankita18Mandal/</a></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Pose Estimation, Medical Image Classification ,Programming, and Operations Research</strong></p>
+<p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Pose Estimation, Medical Image Classification, Programming, and Operations Research</strong></p>
 </li>
 <li>
 <p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:ankita.iitd.mandal@gmail.com">ankita.iitd.mandal@gmail.com</a></strong></p>
