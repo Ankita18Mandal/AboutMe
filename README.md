@@ -1,4 +1,4 @@
-# AboutMe
+# About Me
 ## Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" style="max-width:100%;"> I am Ankita Mandal.
 
 
